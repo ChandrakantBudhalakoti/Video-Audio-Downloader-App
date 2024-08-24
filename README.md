@@ -33,7 +33,7 @@ video-downloader-app/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/video-downloader-app.git
+git clone https://github.com/ChandrakantBudhalakoti/Video-Audio-Downloader-App.git
 cd video-downloader-app
 
 ### 2. Install Dependencies
@@ -122,7 +122,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com].
+For any questions or inquiries, please contact [chandrakantbudhalakoti189@gmail.com].
 
 
 ### Customization
